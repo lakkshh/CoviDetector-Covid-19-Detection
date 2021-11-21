@@ -30,7 +30,7 @@ Various Covid-19 detection systems exist that detect the presence of Covid-19 vi
     - Built a tensorflow input pipeline and created equal sized 32 batches to handle the large dataset and optimize performance
     - Used concepts of caching, shuffling and prefetching to optimize the tensorflow input pipeline performance while handling the large dataset
     - Applied Data Augmentation to generate new training examples from existing training set using transformations like Flipping and Rotation to prevent overfitting and increase robustibility
-    - Added links to book vaccination slot, if person is healthy and nearest hospital, if infected, on the portal itself
+- Added links to book vaccination slot, if person is healthy and nearest hospital, if infected, on the portal itself
 
 ### Methodology Flow Chart
 ![Methodology](https://i.ibb.co/YBHXSQ4/Methodology.jpg "Methodology")
