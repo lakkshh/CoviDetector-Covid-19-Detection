@@ -10,7 +10,7 @@ The input is given in the form of a Chest X-Ray image and the output tries to pr
 The dataset of images used in this project, containing images of Chest X-Ray images, can be viewed [here](https://www.kaggle.com/fusicfenta/chest-xray-for-covid19-detection). In the proposed CNN Architecture, there are four convolution layers with 32 filters in the first layer, 64 filters in the second and third layer and 128 filters in the last layer. The training accuracy is obtained to be 86%.
 
 ### Mobile Android Application
-[Click here]() to watch the video.
+[Click here](https://youtu.be/GA0P8ladn9s) to watch the video.
 
 ### Web Application
 [Click here](https://covidetector-chest-xray.herokuapp.com/) to go to the website.
